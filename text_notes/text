@@ -1,0 +1,2 @@
+INSERT INTO User(name, adddress, city,email) VALUES( 'Ali', 'Lahore', 'Pakistan','iam.umairimran@gmail.com');
+INSERT INTO User(name, adddress, city,email) VALUES( 'Bhatti', 'Lahore', 'Pakistan','iam.umairimran@gmail.com');
